@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+
+body {
+	font-family: georgia;
+	background: #e0f2f2;
+
+}
+
+#container{
+	height: 600px;
+	width: 400px;
+	margin: 100px auto;
+	background: #F8F8F8;
+	box-shadow: 0 0 50px rgba(0,0,0,1);
+	border-radius: 50px;
+
+}
+
+h1 {
+	background: #333333;
+	color: white;
+	margin: 0;
+	padding: 30px 75px;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight: normal;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+	font-family: monoton, sans-serif;
+	text-align: center;
+	border-bottom: 
+}
+
+p {
+	text-align: center;
+	font-size: 20px;
+}
+
+form:input[type="text"] {
+	width: 170px;
+}
+
+input {
+}
+
+#bill-amount {
+	font-size: 15px;
+	color: #088da5;
+	width: 50%;
+	padding: 5px 5px 8px 8px;
+	margin-left: 90px;
+	border-bottom: blue;
+
+}
+
+#people-amount {
+	font-size: 15px;
+	color: #088da5;
+	width: 50%;
+	padding: 5px 5px 8px 8px;
+	margin-left: 90px;
+	border-bottom: green;
+}
+
+#service-quality {
+	padding: 13px 13px 20px 50px;
+  	margin-left: 100px;
+  	font-size: 20px;
+  	color: #088da5;
+}
+
+button {
+	text-transform: uppercase;
+	display: block;
+	margin: 30px auto;
+	background: #ffa500;
+	border-radius: 10px;
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+	color: white;
+	font-family: roboto;
+}
+
+button:hover {
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+button:active {
+	position: relative;
+	top: 5px;
+}
+
+#result {
+	background: white;
+	color: #333333;
+	display: inline-block;
+	margin: 0px auto;
+	height: 50px;
+	width: 200px;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 0px;
+	transition: 
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
